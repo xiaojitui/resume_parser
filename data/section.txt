@@ -1,0 +1,116 @@
+Experience
+Experience
+EXPERIENCES
+Professional Experience
+Professional Experiences
+WORK EXPERIENCE
+WORK EXPERIENCES
+WORK/INTERNSHIP EXPERIENCE
+WORK & INTERNSHIP EXPERIENCE
+INTERNSHIP EXPERIENCE
+Employment History
+Employment
+CURRENT POSITIONS
+POSITIONS
+DATA SCIENCE EXPERIENCE
+WORK HISTORY
+WORKING HISTORY
+SELECTED JOB EXPERIENCE
+JOB EXPERIENCE
+JOB EXPERIENCES
+WORK & LEADERSHIP EXPERIENCE
+BUSINESS EXPERIENCE
+BUSINESS EXPERIENCES
+WORKING EXPERIENCE
+WORKING EXPERIENCES
+PROFESSIONAL ACTIVITIES
+;
+
+
+Education
+Education
+School
+;
+
+
+Project
+PROJECTS
+ACADEMIC PROJECTS
+INDUSTRIAL PROJECTS
+KEY PROJECTS
+Data Science Projects
+Data Science Related Projects
+Graduate Research Projects
+Research Projects
+GRADUATE PROJECTS
+;
+
+
+Publication
+Publication
+Publications
+Patents
+Patent
+Conference
+Conferences
+;
+
+
+Skill
+Skills
+Computer skills
+TECHNICAL SKILLS
+Leadership skills
+Quantitative skills
+KEY SKILLS
+;
+
+
+
+Degree
+BS
+B.S.
+B. Tech.
+B.E.
+B.E
+Bachelor
+PHD
+Ph.D.
+PhD
+Doctor
+Doctoral
+Doctorate
+MS
+M.S.
+Msc
+M.sc.
+Master
+Masters
+Certificate
+B.Tech
+MBA
+Master’s
+Bachelor’s
+M.A.
+LL.B.
+LLB
+BSc.
+B.A.
+BA
+CFA
+B.Tech
+Diploma
+Bachelors
+M.Sc.Eng
+BE
+PH.D.
+MA
+M.Eng.
+M.PHIL.
+B.SC.
+Specialization
+M.S.E.
+Minor
+BSc 
+;
+
