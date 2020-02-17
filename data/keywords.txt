@@ -1,0 +1,281 @@
+Data Science
+Data Science 
+Machine Learning 
+linear regression
+logistic regression
+K means
+random forest
+svm
+naïve bayes
+pca
+decision tree
+svd
+ensemble models
+bolzman machine
+AI
+artificial intelligence
+Kaggle
+regression
+classification
+image processing
+data visualization
+feature engineering
+time-series
+time series
+support vector machine
+collaborative filtering
+recommender system
+clustering
+principal component analysis
+K-means clustering
+K-means
+Exploratory Data Analysis
+Ridge Regression
+Lasso
+graph theory
+knowledge graph
+; 
+
+
+Deep Learning
+Deep Learning
+neural network 
+neural networks
+keras
+tensorflow
+theano
+cnn
+convolutional neural
+rnn
+recurrent neural
+lstm
+object detection
+face detection
+gpu
+cpu
+yolo
+cuda
+gan
+opencv
+unet
+fast rcnn
+faster rcnn
+fastest rcnn
+mask rcnn
+image recognition
+text recognition
+object recognition
+handwritten recognition
+handwriting recognition
+OCR
+tesseract
+speech recognition
+speech to text
+speech-to-text
+pytorch
+Image segmentation
+Document segmentation
+Reinforcement learning
+robot
+hmm
+;
+
+Python
+Python 
+pandas
+numpy
+scikitlearn
+sklearn
+matplotlib
+scipy
+statsmodel
+flask
+pyspark
+django
+bokeh
+Scikit-Learn
+xgboost
+; 
+
+
+NLP
+NLP
+natural language processing 
+topic modeling
+lda
+named entity recoginition
+ner
+pos
+pos tagging
+word2vec
+word embedding
+lsi
+spacy
+gensim
+nltk
+nmf
+doc2vec
+cbow
+bag of words
+skip gram
+bert
+elmo
+sentiment analysis
+chat bot
+machine translation
+topic analysis
+n-grams
+bag-of-words
+;
+
+
+Data Engineering
+Data Engineering
+aws
+ec2
+amazon redshift
+s3
+docker
+kubernetes
+scala
+teradata
+google big query
+aws emr
+hive
+spark
+hadoop
+sql
+database
+data wrangling
+HDFS
+Tableau
+metadata
+;
+
+
+Statistics
+Statistics
+statistical models
+statistical modeling 
+probability  
+normal distribution 
+Poisson distribution 
+Survival models
+hypothesis testing
+bayesian inference 
+factor analysis
+forecasting
+markov chain
+monte carlo
+multivariates
+Statistical Inference
+R programming
+R
+ggplot
+shiny
+cran
+dplyr
+tidyr
+lubridate
+knitr
+mathematical models
+mathematical modeling
+quantitative analysis
+statistical simulation
+mathematical simulation
+quantitative analysis
+signal processing
+Stochastic
+Optimization
+SAS
+;
+
+
+Finance
+asset management
+asset manager
+bank
+banking
+CFA
+Chartered Financial Analyst
+client advisor
+commodities
+commodity
+consumer banking
+corporate banking
+credit analysis
+credit card
+credit risk
+currency
+deposit
+derivative
+equity
+equity research
+financial
+financial analyst
+financial modeling
+fintech
+fixed income
+fixed income research
+hedge fund
+high frequency trading
+insurance
+interest rate
+investment
+Investment analysis
+investment banking
+investment management
+lending 
+macroeconomic
+mortgage backed securities
+municipal bond
+mutual fund
+options
+portfolio
+portfolio manager
+private bank
+private banking
+quantitative research
+rates
+retail bank
+sales & trading
+sales and trading
+stock
+stress testing
+trading desk
+underwriting
+wealth advisor
+wealth management
+;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
