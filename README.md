@@ -2,8 +2,8 @@
 
 The scripts are used to parse resumes. 
 
-The functions include:
-(1) create_name_record.py
+## The functions include:
+    (1) create_name_record.py
 Used to map "candidate name -> resume_filename -> resume_text -> interview pass/not".
 Final output format is: record[name]['X'] = resume's text, record[name]['y'] = 1/0 # pass/not
     
