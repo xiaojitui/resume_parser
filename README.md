@@ -8,7 +8,7 @@ The scripts are used to parse resumes.
         Final output format is: record[name]['X'] = resume's text, record[name]['y'] = 1/0 # pass/not
     
     (2) parse_cv_detail.py:
-        - Used to parse candidate's school, degree, location, position, company
+        Used to parse candidate's school, degree, location, position, company
     
     (3) create_skillset_profile.py:
         Used to generate skillset profile database for each candidate
