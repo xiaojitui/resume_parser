@@ -13,5 +13,5 @@ The scripts are used to parse resumes.
     (3) create_skillset_profile.py:
         Used to generate skillset profile database for each candidate
     
-    (4) plot_wordcloud:
+    (4) plot_wordcloud.py:
         Used to show word clouds of a resume
